@@ -237,7 +237,7 @@ $ git clone [SSH URL FROM GITHUB]
 9. Change directory into your newly-cloned repository:
 
 ```
-$ cd a00-GHUSERNAME
+$ cd a00-onboarding-[GHUSERNAME]
 ```
 
 ### Run a script and then push the output back to GitHub
